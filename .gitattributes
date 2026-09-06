@@ -1,0 +1,13 @@
+# Do not edit manually
+# This file is used to override language statistics
+*.min.js linguist-generated
+* text=auto eol=lf
+
+*.ts linguist-detectable
+*.bat text eol=crlf
+src/**/*.ts linguist-detectable
+*.html linguist-vendored
+*.ico binary
+
+*.sh text eol=lf
+# eof 40152651
