@@ -1,0 +1,6 @@
+build/
+.cache/
+.env.local
+*.log
+*.tgz
+.DS_Store
